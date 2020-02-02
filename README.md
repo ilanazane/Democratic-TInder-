@@ -1,4 +1,4 @@
 # Democratic-Tinder
 
 
-![image](/Users/ilanazane/Desktop/tchtgthr.png)
+![image](https://github.com/ilanazane/Democratic-Tinder/blob/master/tchtgthr.png)
